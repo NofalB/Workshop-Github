@@ -1,9 +1,9 @@
 {
     "labels": {
       "feature": {
-        "name": "feature",
+        "name": "Workshop",
         "colour": "#2E09B4",
-        "description": "Feature"
+        "description": "Workshop"
       },
       "bugfix": {
         "name": "bugfix",
