@@ -14,5 +14,5 @@ jobs:
       - uses: IvanFon/super-labeler-action@master
         name: Label pull request
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          github-token: '${{ secrets.MY_SECRET }}'
           config: '.github/workflows/pr-labeler-config.json'
